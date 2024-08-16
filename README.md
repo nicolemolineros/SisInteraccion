@@ -10,7 +10,8 @@ This project involved selecting the trailer for the upcoming movie *Amelia's Chi
 - **Audacity**: Used to edit and manipulate the audio extracted from the trailer.
 - **CapCut**: Assisted with the video and audio synchronization process.
 - **iMovie**: Assisted with replacing the original audio with the edited audio and ensuring proper timing.
-
+  
+## Movie Trailer: https://www.youtube.com/watch?v=fQ2nGKfr5Gw
 ## Project Description
 The original trailer for *Amelia's Child* was a suspenseful horror trailer with a dark and eerie atmosphere. To completely transform the tone, we focused on the following steps:
 
