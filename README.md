@@ -12,7 +12,8 @@ This project involved selecting the trailer for the upcoming movie *Amelia's Chi
 - **iMovie**: Assisted with replacing the original audio with the edited audio and ensuring proper timing.
   
 ## Movie Trailer: https://www.youtube.com/watch?v=fQ2nGKfr5Gw
-## Edited Trailer: https://youtu.be/Z4NJ1sfKwLg
+## Edited Trailer: https://youtu.be/oQPqHgeEPW0
+## AUP3 File: https://drive.google.com/file/d/1uRzJBiZXTijdvhZI49cMFATzmTYPRG6u/view?usp=sharing
 ## Project Description
 The original trailer for *Amelia's Child* was a suspenseful horror trailer with a dark and eerie atmosphere. To completely transform the tone, we focused on the following steps:
 
